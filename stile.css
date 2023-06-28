@@ -1,0 +1,16 @@
+header {
+  text-align: center;
+}
+
+.header-paragraph {
+  padding: 5px;
+  background-color: rgb(236, 206, 210);
+  color: green;
+  border-top: 3px solid goldenrod;
+}
+
+.container {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
