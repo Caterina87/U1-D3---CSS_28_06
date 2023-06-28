@@ -1,16 +1,74 @@
+body {
+  margin: 0px;
+}
+
 header {
   text-align: center;
 }
 
 .header-paragraph {
-  padding: 5px;
-  background-color: rgb(236, 206, 210);
-  color: green;
-  border-top: 3px solid goldenrod;
+  padding: 10px;
+  background-color: antiquewhite;
+  font-size: 1.2em;
+  color: rgb(4, 95, 4);
+  border-top: 2px solid goldenrod;
+  margin-top: 20px;
 }
 
 .container {
   margin: auto;
   width: 50%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5em;
+}
+
+.paragraph {
+  font-size: 1.3em;
+  text-align: justify;
+}
+
+figure {
+  margin: 0px;
+}
+
+figcaption {
+  text-align: center;
+  color: grey;
+  padding-top: 10px;
+}
+
+.focaccia {
+  border-radius: 11px;
+  box-shadow: 10px 10px lightgray;
+  width: 100%;
+}
+
+.featured {
+  border-left: 3px solid goldenrod;
+  padding-left: 10px;
+  font-size: 1.5em;
+}
+
+h4 {
+  color: chocolate;
+  margin-bottom: 0px;
+}
+
+h3 {
+  font-size: 1.5em;
+  border-bottom: 2px solid aquamarine;
   padding: 10px;
+}
+
+ul,
+ol {
+  font-size: 1.3em;
+  line-height: 1.5;
+}
+
+h5 {
+  font-size: 1.3em;
 }
